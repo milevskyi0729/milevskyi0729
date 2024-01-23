@@ -1,22 +1,6 @@
-## Hey 👋🏻, I'm senior web developer.
-
-### Developer & Designer 🚀
+## Hey 👋🏻, I'm Generative AI & MERN stack developer.🚀
 
 My go-to stack is Next JS (With TypeScript & SaSS), previously MERN Stack for web-based solutions. I have collaborated with developers to create a variety of open-source solutions.
-
-- 🖥️ See my portfolio at [amanjag.dev](http://amanjag.dev)
-- 📫 You can reach me at [contact@amanjag.dev](mailto:contact@amanjag.dev)
-- ⚡ Ask me about anything, I am happy to help
-
-<br />
-<a href="https://www.github.com/amanjagdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amanjagdev?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.twitter.com/amankumarjagdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/amankumarjagdev?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
-/></a>
-
-#### Socials
-
-<p align="left"> <a href="https://www.dev.to/amanjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="28" height="28" /></a> <a href="https://www.github.com/amanjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" /></a> <a href="http://www.instagram.com/amankumarjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /></a> <a href="https://www.linkedin.com/in/amanjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> <a href="https://www.twitter.com/amankumarjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="28" height="28" /></a></p>
 
 #### Languages and Tools
 
@@ -42,4 +26,4 @@ src="https://img.shields.io/twitter/follow/amankumarjagdev?logo=twitter&style=fo
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-**⭐️ From [amanjagdev](https://github.com/amanjagdev)**
+**⭐️ From [Artem Milevskyi](https://github.com/milevskyi0729)**
