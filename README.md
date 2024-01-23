@@ -1,11 +1,12 @@
-## Hey 👋🏻, I'm [Aman Kumar Jagdev!](https://amanjag.dev) 
+## Hey 👋🏻, I'm senior web developer.
+
 ### Developer & Designer 🚀
 
 My go-to stack is Next JS (With TypeScript & SaSS), previously MERN Stack for web-based solutions. I have collaborated with developers to create a variety of open-source solutions.
 
-* 🖥️  See my portfolio at [amanjag.dev](http://amanjag.dev)
-* 📫  You can reach me at [contact@amanjag.dev](mailto:contact@amanjag.dev)
-* ⚡  Ask me about anything, I am happy to help
+- 🖥️ See my portfolio at [amanjag.dev](http://amanjag.dev)
+- 📫 You can reach me at [contact@amanjag.dev](mailto:contact@amanjag.dev)
+- ⚡ Ask me about anything, I am happy to help
 
 <br />
 <a href="https://www.github.com/amanjagdev" target="_blank" rel="noreferrer"><img
@@ -17,8 +18,7 @@ src="https://img.shields.io/twitter/follow/amankumarjagdev?logo=twitter&style=fo
 
 <p align="left"> <a href="https://www.dev.to/amanjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="28" height="28" /></a> <a href="https://www.github.com/amanjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" /></a> <a href="http://www.instagram.com/amankumarjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /></a> <a href="https://www.linkedin.com/in/amanjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> <a href="https://www.twitter.com/amankumarjagdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="28" height="28" /></a></p>
 
-
-#### Languages and Tools  
+#### Languages and Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
