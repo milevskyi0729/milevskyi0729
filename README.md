@@ -1,6 +1,8 @@
 ## Hey 👋🏻, I'm Generative AI & MERN stack developer.🚀
 
-My go-to stack is Next JS (With TypeScript & SaSS), previously MERN Stack for web-based solutions. I have collaborated with developers to create a variety of open-source solutions.
+My go-to stack is React and Next JS (With TypeScript & SaSS), previously MERN Stack for web-based solutions.
+I am also familiar with ChatGPT, LangChain, Pinecone and LLMs.
+I have collaborated with developers to create a variety of open-source solutions.
 
 #### Languages and Tools
 
