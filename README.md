@@ -1,8 +1,7 @@
-## Hey 👋🏻, I'm Generative AI & MERN stack developer.🚀
+## Hey 👋🏻, I'm a senior React, Node, AI developer.🚀
 <p>
   
-## I am very familiar with React, Node, ChatGPT, LangChain, Pinecone and LLMs. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality.
-
+## I am very familiar with JavaScript, ChatGPT, LangChain, Pinecone and LLMs.
 </p>
 
 <p align="center">
@@ -51,7 +50,7 @@
 ### Frontend & Backend Development
 <br />
 
-### Chatbot Development
+### ChatGPT (RAG) Development
 
 <br />
 
@@ -59,4 +58,4 @@
 
 <br />
 
-### Web & Mobile Design
+### BlockChain
