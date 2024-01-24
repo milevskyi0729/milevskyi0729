@@ -1,7 +1,7 @@
 ## Hey 👋🏻, I'm Generative AI & MERN stack developer.🚀
 <p>
   
-## I am very familiar with ChatGPT, LangChain, Pinecone and LLMs. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality. My expertise lies in building MVPs, apps, enterprise software, scalable microservices, web crawlers, REST and Socket APIs, infrastructure modeling, AWS, and deployments. I am the go-to guy for any of your development needs.
+## I am very familiar with React, Node, ChatGPT, LangChain, Pinecone and LLMs. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality.
 
 </p>
 
